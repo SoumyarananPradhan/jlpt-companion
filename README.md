@@ -4,7 +4,7 @@ A full-stack, spaced-repetition flashcard application designed for Japanese Lang
 
 Built with a custom implementation of the SuperMemo-2 (SM-2) algorithm, automated API data scraping, and a bespoke traditional Japanese (Wafu - 和風) UI design system.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Insert+Screenshot+of+Dashboard+Here)
+![Project Screenshot](./screenshots/Jlpt_Dashboard.png)
 
 ## ✨ Key Features
 
